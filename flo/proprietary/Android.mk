@@ -1,8 +1,8 @@
 LOCAL_PATH:=$(call my-dir)
 
 include $(CLEAR_VARS)
-LOCAL_MODULE := TQL
-LOCAL_SRC_FILES := system/app/TQL/TQL.apk
+LOCAL_MODULE := Argyle
+LOCAL_SRC_FILES := system/app/Argyle/Argyle.apk
 LOCAL_MODULE_PATH := $(TARGET_OUT_APPS)
 LOCAL_MODULE_CLASS := APPS
 LOCAL_MODULE_OWNER := google
